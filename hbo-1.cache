@@ -1,0 +1,7 @@
+<br />
+<b>Warning</b>:  file_get_contents(https://www.googleapis.com/freebase/v1/mqlread?query=%7B&quot;type&quot;%3a&quot;/film/film&quot;,&quot;name&quot;%3a&quot;%E2%80%A2%09Michael+Strahan+on+LIVE+with+Kelly+%26+Michael%3A+Real+Sports+with+Bryant+Gumbel+%E2%80%93+October+2012&quot;,&quot;imdb_id&quot;%3anull,&quot;limit&quot;:1%7D&amp;key=AIzaSyC3Ft0JnoHtz6KpxNcYMYWEdKS5xax70ZY) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in <b>/homepages/16/d195357020/htdocs/tools/webtools/dailymotion.php</b> on line <b>79</b><br />
+<br />
+<b>Warning</b>:  file_get_contents(https://www.googleapis.com/freebase/v1/mqlread?query=%7B&quot;type&quot;%3a&quot;/film/film&quot;,&quot;name&quot;%3a&quot;Treme+Season+3%3A+%22Didn%27t+It+Rain%22+Music+Video&quot;,&quot;imdb_id&quot;%3anull,&quot;limit&quot;:1%7D&amp;key=AIzaSyC3Ft0JnoHtz6KpxNcYMYWEdKS5xax70ZY) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in <b>/homepages/16/d195357020/htdocs/tools/webtools/dailymotion.php</b> on line <b>79</b><br />
+{"page":1,"limit":100,"has_more":true}
